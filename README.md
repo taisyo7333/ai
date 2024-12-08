@@ -18,3 +18,6 @@ ollama serve
 ```sh
 ollama run llama3.1 
 ```
+
+## How to use open-ui
+https://github.com/openui/open-ui
