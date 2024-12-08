@@ -19,5 +19,9 @@ ollama serve
 ollama run llama3.1 
 ```
 
-## How to use open-ui
-https://github.com/openui/open-ui
+## How to use open-webui
+https://github.com/open-webui/open-webui
+
+```sh
+
+```
